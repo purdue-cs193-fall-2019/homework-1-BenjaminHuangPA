@@ -23,6 +23,13 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+# Benjamin's First CS193 Homework
+
+Cool things about CS193
+- Nice TAs
+- Helpful
+- Optional attendance
+
 [Link](url) and ![Image](src)
 ```
 
